@@ -56,6 +56,7 @@ app.use(
       "http://www.twoupbikergear.com",
       "http://twoupbikergear.com",
       "http://www.twoupbikergear.com",
+      "https://2up-biker-gear-frontend-three.vercel.app",
    ],
     credentials: true,
   })
@@ -101,3 +102,4 @@ app.use((err, req, res, next) => {
 });
 
 export default app;
+
